@@ -1,13 +1,13 @@
 <?php
 /**
  * Plugin Name:       WP Starter Plugin
- * Plugin URI:        https://example.com/wp-starter-plugin
+ * Plugin URI:        https://github.com/dhirenpatel22/wp-starter-plugin
  * Description:       A boilerplate to kickstart custom WordPress plugin development.
  * Version:           1.0.0
  * Requires at least: 6.0
  * Requires PHP:      8.1
- * Author:            Your Name
- * Author URI:        https://example.com
+ * Author:            Dhiren Patel
+ * Author URI:        https://www.dhirenpatel.me/
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       wp-starter-plugin
