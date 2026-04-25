@@ -1,0 +1,5 @@
+/* Admin styles — wp-starter-plugin */
+.wpsp-dashboard,
+.wpsp-settings {
+    max-width: 800px;
+}
